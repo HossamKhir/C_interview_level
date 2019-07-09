@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562672128 source:g:\embeddeddiploma\projects\c\array_quiz\main.c
+	<stdio.h>
+	<stdlib.h>
+
