@@ -7,7 +7,7 @@ int count_ones(int x);
 
 int main()
 {
-    printf("%d\n", count_ones(7));
+    printf("%d\n", GET_BIT(5,1));
     return 0;
 }
 

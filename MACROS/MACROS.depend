@@ -1,8 +1,8 @@
 # depslib dependency file v1.0
-1562665708 source:g:\embeddeddiploma\projects\c\macros\main.c
+1562699793 source:g:\embeddeddiploma\projects\c\macros\main.c
 	<stdio.h>
 	<stdlib.h>
 	"MACROS.h"
 
-1562663747 g:\embeddeddiploma\projects\c\macros\macros.h
+1562699882 g:\embeddeddiploma\projects\c\macros\macros.h
 
